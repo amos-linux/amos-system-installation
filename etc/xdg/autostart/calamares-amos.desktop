@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Install AmOs
+Comment=Installer for AmOs
+Categories=Utility;
+Exec=sudo pkexec /usr/bin/calamares -d
+Icon=arco-calamares
